@@ -15,6 +15,6 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/Gerson305/Calculadora-Open-Source.git
    
 
